@@ -22,12 +22,12 @@ import {
 } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: "",
+  apiKey: "AIzaSyAr8lAqiQaiz5q4hL1DTVKlr_PbQe_FCzE",
+  authDomain: "bthn-clothing-db.firebaseapp.com",
+  projectId: "bthn-clothing-db",
+  storageBucket: "bthn-clothing-db.appspot.com",
+  messagingSenderId: "474687122236",
+  appId: "1:474687122236:web:e73696f6942b7bcb738c39",
 };
 
 // Initialize Firebase
