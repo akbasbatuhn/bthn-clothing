@@ -25,7 +25,6 @@ const Category = () => {
   return (
     <Fragment>
       <CategoryTitle>{category.toUpperCase()}</CategoryTitle>
-      {console.log(isLoading)}
       {isLoading ? (
         <Spinner />
       ) : (
